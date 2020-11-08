@@ -1,0 +1,7 @@
+# TROLL
+
+Troll is a simple text adventure game in Rust.
+
+## How to run
+
+> cargo run
